@@ -1,1 +1,1 @@
-This is my portfolio landing page which simply explains more about me
+This is my portfolio landing page which simply defines me.
